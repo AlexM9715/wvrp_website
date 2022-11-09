@@ -18,7 +18,8 @@ const MerchSchema = new mongoose.Schema({
         required: [true, "{PATH} must be present"]
     },
     // color: {
-
+    //     type: Array,
+    //     required: [true, "{PATH} must be present"]
     // },
     // size: {
 
